@@ -6,7 +6,7 @@
 three = do
     two = 2
     return 1 + two
-# a = 3
+# three = 3
 ```
 
 ```py
