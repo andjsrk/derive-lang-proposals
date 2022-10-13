@@ -3,8 +3,8 @@
 ## 예시
 ```py
 protocol Model:
-    def update?(self, time)
-    def render(self, container)
+    def update?(self, time),
+    def render(self, container),
     optional_property?
 
 class A<Model>:
